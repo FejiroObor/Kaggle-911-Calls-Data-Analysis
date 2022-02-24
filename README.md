@@ -9,9 +9,9 @@ This dataset contains calls to 911 in Montgomery County, Pennsylvania.
 ## My goals for this notebook:
 This notebook will show examples of how I handle:
 
-Importing data with Pandas
-Cleaning data
-Exploring data through visualizations with Matplotlib & Seaborn
+- Importing data with Pandas
+- Cleaning data
+- Exploring data through visualizations with Matplotlib & Seaborn
 
 ## For this exercise, I will require the following libraries:
 - NumPy
