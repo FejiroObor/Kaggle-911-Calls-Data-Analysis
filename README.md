@@ -14,7 +14,7 @@ Cleaning data
 Exploring data through visualizations with Matplotlib & Seaborn
 
 ## For this exercise, I will require the following libraries:
-NumPy
-Pandas
-Matplotlib
-Seaborn
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
